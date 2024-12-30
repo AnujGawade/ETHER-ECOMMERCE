@@ -12,7 +12,7 @@ A fully functional and responsive e-commerce website built with React, providing
 
 ## Demo
 
-Try the live demo here: [Live Demo](#)
+Try the live demo here: (https://ether-frontend.vercel.app/)
 
 ## Installation
 

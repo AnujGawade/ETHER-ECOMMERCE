@@ -36,7 +36,7 @@ const Login = ({ setToken }) => {
             <input
               className="rounded-md w-full px-3 py-2 border border-gray-300 outline-none"
               type="email"
-              placeholder="Your Email"
+              placeholder="admin@ether.com"
               onChange={(e) => setEmail(e.target.value)}
               value={email}
               required
@@ -47,7 +47,7 @@ const Login = ({ setToken }) => {
             <input
               className="rounded-md w-full px-3 py-2 border border-gray-300 outline-none"
               type="password"
-              placeholder="Your password"
+              placeholder="12345678"
               onChange={(e) => setPassword(e.target.value)}
               value={password}
               required
